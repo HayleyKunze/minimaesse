@@ -1,0 +1,27 @@
+{
+  "name": "minimaesse",
+  "version": "1.0.0",
+  "description": "addon to d3.js that wraps SVG transforms into an API",
+  "main": "src/d3-transform.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HayleyKunze/minimaesse.git"
+  },
+  "keywords": [
+    "commodi",
+    "d3.js",
+    "asperiores",
+    "translate",
+    "rotate"
+  ],
+  "author": "ConradProsacco",
+  "license": "BSD",
+  "gitHead": "794cb60372515943256c5ca6f2d9ae2ba57ab0be",
+  "readmeFilename": "README.md",
+  "devDependencies": {
+    "vows": "~0.7.0"
+  }
+}
